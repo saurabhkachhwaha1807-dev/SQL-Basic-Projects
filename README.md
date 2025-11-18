@@ -6,6 +6,9 @@
 [open pdf](https://github.com/saurabhkachhwaha1807-dev/SQL-Basic-Projects/blob/main/SQL%20Case%20Study%20-%20Basic.pdf)
 
 ### Data files used
+* Customer info
 [open file](https://github.com/saurabhkachhwaha1807-dev/SQL-Basic-Projects/blob/main/Customer.csv)
+* transaction info
 [open file](https://github.com/saurabhkachhwaha1807-dev/SQL-Basic-Projects/blob/main/Transactions.csv)
-[open file]()
+* product info
+[open file](https://github.com/saurabhkachhwaha1807-dev/SQL-Basic-Projects/blob/main/prod_cat_info.csv)
