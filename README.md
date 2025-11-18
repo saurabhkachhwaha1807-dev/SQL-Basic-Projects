@@ -6,5 +6,6 @@
 [open pdf](https://github.com/saurabhkachhwaha1807-dev/SQL-Basic-Projects/blob/main/SQL%20Case%20Study%20-%20Basic.pdf)
 
 ### Data files used
+[open file](https://github.com/saurabhkachhwaha1807-dev/SQL-Basic-Projects/blob/main/Customer.csv)
 [open file]()
 [open file]()
