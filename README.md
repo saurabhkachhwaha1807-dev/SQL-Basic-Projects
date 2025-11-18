@@ -12,3 +12,6 @@
 [open file](https://github.com/saurabhkachhwaha1807-dev/SQL-Basic-Projects/blob/main/Transactions.csv)
 * product info
 [open file](https://github.com/saurabhkachhwaha1807-dev/SQL-Basic-Projects/blob/main/prod_cat_info.csv)
+
+**Answer Template**
+[open](https://github.com/saurabhkachhwaha1807-dev/SQL-Basic-Projects/blob/main/basic%20case%20study.sql)
